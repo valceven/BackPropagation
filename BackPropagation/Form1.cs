@@ -16,6 +16,7 @@ namespace BackPropagation
         NeuralNet nn;
         int hn = 10000;
         int ctr = 0;
+        int k = 0;
         public Form1()
         {
             InitializeComponent();
